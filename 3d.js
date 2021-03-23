@@ -1,4 +1,4 @@
-import { Sphere, Plane, Box } from "./components";
+import { Sphere, Plane, Box } from "./components/index.js";
 import Position from "./position.js";
 import rayMarching from "./ray-marching.js";
 import Color from "./color.js";
